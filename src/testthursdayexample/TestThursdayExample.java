@@ -16,6 +16,8 @@ public class TestThursdayExample {
     public static void main(String[] args) {
         // TODO code application logic here
         // comment
+
+        System.out.println("pull operation");
     }
     
 }
