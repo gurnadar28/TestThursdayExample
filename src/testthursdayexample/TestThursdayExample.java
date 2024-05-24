@@ -18,6 +18,7 @@ public class TestThursdayExample {
         // comment
 
         System.out.println("pull operation");
+        System.out.println("fetch+ merge operation");
     }
     
 }
